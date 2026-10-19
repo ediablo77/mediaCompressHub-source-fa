@@ -1,3 +1,5 @@
+Source : https://github.com/amoorzheyu/mediaCompressHub
+
 # 压缩坞（Media Compress Hub）
 
 纯前端的本地媒体压缩工具：图片、GIF、视频在浏览器或桌面窗口内处理，**文件不会上传到任何服务器**。可作为渐进式 Web 应用（PWA）在浏览器中安装，也可通过 **Electron** 打包为 Windows / macOS / Linux 桌面应用。
